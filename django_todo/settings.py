@@ -32,9 +32,9 @@ SECRET_KEY = 'django-insecure-(v5i-5#1h+1k)c3y(wmp-*s=uh3pxp_^2v67_%#rwls=xsb1sm
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-ngozi89-hello-django-eivwqc0qv3.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['django-app23-bb1335f2d0f4.herokuapp.com']
 
-
+https: // django-app23-bb1335f2d0f4.herokuapp.com/
 # Application definition
 
 INSTALLED_APPS = [
